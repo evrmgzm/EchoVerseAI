@@ -1,3 +1,13 @@
+---
+title: EchoVerse AI
+emoji: 🎥
+colorFrom: indigo
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.35.0
+python_version: 3.10
+app_file: app.py
+---
 # EchoVerse AI 🤖🎥: YouTube Videolarıyla Etkileşimli Sohbet
 
 Bu proje, kullanıcılara herhangi bir YouTube videosunun içeriği hakkında sohbet etme imkanı sunan, RAG (Retrieval-Augmented Generation) tabanlı bir chatbot uygulamasıdır.
