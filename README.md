@@ -142,6 +142,6 @@ Uygulama arayüzü basit ve kullanıcı dostu olacak şekilde tasarlanmıştır.
 
 Uygulamanın canlı versiyonuna aşağıdaki linkten ulaşabilirsiniz:
 
-**[👉 EchoVerse AI Uygulamasına Gitmek İçin Tıklayın]([https://your-streamlit-app-link.streamlit.app/](https://huggingface.co/spaces/evrmgzm/EchoVerseAI))**
+**[👉 EchoVerse AI Uygulamasına Gitmek İçin Tıklayın]([https://your-streamlit-app-link.streamlit.app/](https://huggingface.co/spaces/evrmgzm/EchoVerseAI])**
 
 
