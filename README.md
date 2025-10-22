@@ -114,6 +114,24 @@ Uygulama arayüzü basit ve kullanıcı dostu olacak şekilde tasarlanmıştır.
 2.  **İşlemi Başlatma:** "🚀 Videoyu İşle" butonuna tıklayın. Bu aşamada uygulama, videonun transkriptini alacak ve RAG mimarisini hazırlayacaktır.
 3.  **Sohbete Başlama:** Hazırlık tamamlandığında, ekranın alt kısmında yer alan sohbet kutusuna video ile ilgili sorularınızı yazarak sohbete başlayabilirsiniz.
 ![WhatsApp Görsel 2025-10-22 saat 23 33 35_e7e486e6](https://github.com/user-attachments/assets/f2d561c3-19f8-456c-8f69-d756236778f6)
+---
+
+![WhatsApp Görsel 2025-10-22 saat 23 34 22_be67bf2e](https://github.com/user-attachments/assets/649b0940-363a-4732-91a4-275df4fa98e0)
+
+---
+
+![WhatsApp Görsel 2025-10-22 saat 23 34 50_3ef054a7](https://github.com/user-attachments/assets/e028af76-7612-4017-8d21-44d506e3c303)
+
+---
+
+![WhatsApp Görsel 2025-10-22 saat 23 35 08_23fa3dbd](https://github.com/user-attachments/assets/5ae0c969-edad-45b3-9249-c2bfbf006a8b)
+
+---
+
+![WhatsApp Görsel 2025-10-22 saat 23 36 50_6edbf79c](https://github.com/user-attachments/assets/e7b81153-f723-4f1f-8c45-af6e74582680)
+
+---
+
 
 ---
 
