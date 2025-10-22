@@ -113,6 +113,7 @@ Uygulama arayüzü basit ve kullanıcı dostu olacak şekilde tasarlanmıştır.
 1.  **URL Girişi:** Sol taraftaki kenar çubuğuna, hakkında sohbet etmek istediğiniz YouTube videosunun linkini yapıştırın.
 2.  **İşlemi Başlatma:** "🚀 Videoyu İşle" butonuna tıklayın. Bu aşamada uygulama, videonun transkriptini alacak ve RAG mimarisini hazırlayacaktır.
 3.  **Sohbete Başlama:** Hazırlık tamamlandığında, ekranın alt kısmında yer alan sohbet kutusuna video ile ilgili sorularınızı yazarak sohbete başlayabilirsiniz.
+![WhatsApp Görsel 2025-10-22 saat 23 33 35_e7e486e6](https://github.com/user-attachments/assets/f2d561c3-19f8-456c-8f69-d756236778f6)
 
 ---
 
