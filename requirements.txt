@@ -1,0 +1,22 @@
+# requirements.txt
+
+streamlit==1.35.0
+python-dotenv==1.0.1
+
+# LangChain ve ilgili paketler
+langchain>=0.2.5
+langchain-core>=0.2.9
+langchain-community>=0.2.5
+langchain-groq>=0.1.3
+langchain-huggingface>=0.0.3
+langchain-text-splitters>=0.2.1
+
+# YouTube ve Metin İşleme
+youtube-transcript-api==1.2.3
+pytube==15.0.0
+
+# Vektör Veritabanı ve Gömme Modelleri
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0
+torch==2.3.0
+transformers==4.41.2

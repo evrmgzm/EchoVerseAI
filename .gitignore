@@ -1,0 +1,17 @@
+# .gitignore
+
+# Sanal ortam klasörlerini yoksay
+echoenv/
+venv/
+*.venv/
+env/
+
+# Python cache dosyalarını yoksay
+__pycache__/
+*.pyc
+
+# API anahtarları ve gizli bilgileri içeren .env dosyasını ASLA yükleme!
+.env
+
+# Streamlit'in oluşturabileceği özel klasörler
+.streamlit/
