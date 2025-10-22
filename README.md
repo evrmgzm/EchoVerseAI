@@ -5,7 +5,7 @@ colorFrom: indigo
 colorTo: purple
 sdk: streamlit
 sdk_version: 1.35.0
-python_version: 3.10
+python_version: 3.11
 app_file: app.py
 ---
 # EchoVerse AI 🤖🎥: YouTube Videolarıyla Etkileşimli Sohbet
